@@ -1,0 +1,269 @@
+body {
+    font-family: 'Franklin Gothic Medium';
+    margin: 0;
+}
+
+#info {
+    background-color: black;
+    padding: 0.5px;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    float: right;
+    margin-top: -45px;
+    margin-right: 250px;
+}
+
+li {
+    display: inline-block;
+    margin: 2px;
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    display: inline;
+    font-size: 20px;
+    padding: 0px 8px;
+}
+
+a:hover {
+    color: red;
+}
+
+h1 {
+    color: red;
+    font-size: 20px;
+    font-family: Calibri;
+    text-transform: capitalize;
+    margin-left: 14px;
+}
+
+#bikes a.log {
+    color: white;
+    font-size: 20px;
+    float: right;
+    margin-top: -42px;
+    margin-right: 100px;
+}
+
+.logout {
+    float: right;
+    margin-top: -42px;
+    margin-right: 100px;
+    color: red;
+}
+
+.img-login {
+    width: 30px;
+    position: absolute;
+    margin-top: -2px
+}
+
+.Royal {
+    width: 33%;
+    float: left;
+    border: 1px solid Black;
+    margin-left: 2px;
+    margin-bottom: 25px;
+}
+
+.Royal a {
+    color: white;
+    background-color: black;
+    padding: 8px 5px;
+    border: 1px solid transperent;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.Royal a:hover {
+    color: red;
+    background-color: white;
+}
+
+b {
+    color: blue;
+}
+
+.p1 {
+    color: blueviolet;
+    font-size: 25px;
+    margin: 15px 3px;
+    padding: 25px 15px;
+    text-align: justify;
+}
+
+#p2 {
+    margin-top: 25px;
+}
+
+.loginbox {
+    margin-top: 5%;
+    margin-left: 60%;
+}
+
+#loginbox {
+    color: white;
+    font-size: 33px;
+}
+
+input {
+    height: 50px;
+    width: 35%;
+    color: white;
+    background-color: transparent;
+    padding: 5px 12px;
+    margin-left: 25px;
+    border-radius: 5px;
+    border-color: white;
+}
+
+.button {
+    background-color: white;
+    color: black;
+    height: 50px;
+    width: 35%;
+    margin-left: 25px;
+    padding: 7px 15px;
+    border-color: transparent;
+    border-radius: 5px;
+}
+
+.loginbox1 {
+    color: white;
+    font-size: 25px;
+    margin-left: 17%;
+    margin-top: 12%;
+}
+
+.loginbox2 {
+    color: white;
+    font-size: 25px;
+    margin-left: 27%;
+    margin-top: 5%;
+}
+
+.in {
+    margin-left: 22px;
+}
+
+.in1 {
+    border: 1px solid white;
+    padding: 10px;
+    height: 50px;
+    margin-left: 23%;
+    border-radius: 5px;
+    background-color: transparent;
+}
+
+.in5 {
+    padding: 5px 10px;
+    font-size: 18px;
+}
+
+.in2 {
+    border: 1px solid blue;
+    margin-left: -35px;
+    background-color: blue;
+}
+
+.in3 {
+    border: 1px solid tomato;
+    background-color: tomato;
+}
+
+.in4 {
+    border: 1px solid lightskyblue;
+    background-color: lightskyblue;
+}
+
+.foot {
+    background-color: rgb(224, 224, 224);
+    padding: 25px;
+}
+
+.foot1 {
+    width: 20%;
+    float: left;
+}
+
+.foot1 h1 {
+    color: black;
+}
+
+.foot1 a {
+    color: black;
+    display: block;
+    font-size: 15px;
+    margin: 15px 0 10px 5px;
+}
+
+.foot1 a:hover {
+    color: red;
+}
+
+.clear {
+    clear: both;
+}
+
+.create {
+    margin-top: 10%;
+    margin-left: 38%;
+}
+
+.create1 {
+    margin-top: 1%;
+    height: 27px;
+    width: 25%;
+    color: black;
+    background-color: white;
+    margin-left: -85px;
+    padding: 5px 12px;
+    border-radius: 6px;
+    border-color: transparent;
+}
+
+.create2 {
+    margin-left: 10px;
+}
+
+#cre2 {
+    margin-bottom: 40px;
+}
+
+.loginbox3 {
+    color: white;
+    font-size: 25px;
+    margin-top: 4%;
+    margin-left: 13%;
+}
+
+#in1 {
+    margin-left: 10%;
+}
+
+#in2 {
+    margin-left: -70px;
+}
+
+.M {
+    text-align: right;
+}
+
+.My {
+    font-size: 20px;
+    padding: 5px 12px;
+    width: 6.5%;
+    text-align: center;
+    height: 25px;
+    margin-top: 2px;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    background: white;
+    color: black;
+    display: inline-block;
+}
